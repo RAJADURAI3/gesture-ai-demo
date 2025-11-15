@@ -56,13 +56,10 @@ python main.py
 
 📚 Future Improvements
 
--Add more gesture classes
-
 -Integrate with external control systems (robotics, UI, AR/VR)
 
--Support multi-person tracking
-
 -Deploy as a web app or mobile interface
+
 
 👨‍💻 Author
 Rajadurai MSc in Data Science 
