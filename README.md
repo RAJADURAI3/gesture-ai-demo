@@ -65,5 +65,6 @@ python main.py
 -Deploy as a web app or mobile interface
 
 👨‍💻 Author
-Rajadurai MSc in Data Science | Computer Vision 
+Rajadurai MSc in Data Science 
+Computer Vision 
 Enthusiast
