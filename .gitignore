@@ -1,11 +1,8 @@
-# Ignore virtual environment
 venv/
-
-# Ignore Python cache files
 __pycache__/
 *.pyc
-
-# Ignore system files
+output.avi
+gesture_log.json
 .DS_Store
-Thumbs.db
+.ipynb_checkpoints/
 
